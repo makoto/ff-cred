@@ -115,7 +115,6 @@ Below is an example `grain.json` file for a configuration that uses a combinatio
 ```
 
 
-
 ### Low-level CLI
 If you want to go deeper, you can access lower-level commands in the sourcecred CLI in the form of: `yarn sourcecred <command>`. 
 For a list of what's available, and what each command does, run `yarn sourcecred help`.
